@@ -21,4 +21,4 @@ This script provides various automation functionalities for interacting with Fac
 1. Clone the repository or download the script file.
 
 ```sh
-git clone <repository-url>
+git clone <https://github.com/xx36Mostafa/fb-followers>
